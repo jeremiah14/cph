@@ -2,6 +2,7 @@
 "name": "CloudPool",
 "description": "This pool is made and will be maintained for us to have a brighter future! Delegators! Let's stake it till we make it!",
 "ticker": "CPH",
-"homepage": "https://www.cloudpool.info"
+"homepage": "https://www.cloudpool.info",
+"extended": "https://raw.githubusercontent.com/jeremiah14/info/main/info.json"
 }
 
